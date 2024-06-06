@@ -1,0 +1,41 @@
+.ca{
+    height: 10pc;
+    width: auto;
+    border: 5px black solid;
+    border:  center ;
+    background-color: rgba(0,400,0,0.2);
+    background-image: url("t.jpg");
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+font-size: 4pc;
+margin-left: auto;
+text-align: center;
+}
+
+.cu{
+    font-size: 60px;
+    text-align: center;
+
+}
+.co{
+
+font-size: 30px;
+
+}
+
+.m{
+
+    font-size: 60px;
+    text-align: center;
+
+}
+
+.cd{
+
+
+    font-size: 30px;
+
+}
+
